@@ -1,0 +1,435 @@
+{
+  "headerData": {
+    "logoDark": "/images/logo.svg",
+    "logoLight": "/images/logo-light.svg"
+  },
+  "heroData": {
+    "title": "My name<br />is  <span>Aneel Ahmed</span>",
+    "subTitle": "",
+    "ImgLink": "public/images/editpic.png",
+    "phone": "+92 3456789001",
+    "email": "mccandesigner@gmail.com",
+    "btnText": "Work with me",
+    "socialData": [
+      {
+        "link": "",
+        "icon": "dribbble"
+      },
+      {
+        "link": "",
+        "icon": "instagram"
+      },
+      {
+        "link": "",
+        "icon": "facebook"
+      }
+    ]
+  },
+  "aboutData": {
+    "aboutLeft": {
+      "ImgLink": "/images/about-banner.png",
+      "name": "Aneel Ahmed",
+      "designation": "entrepreneurs",
+      "resumeCv": "/Resume.pdf"
+    },
+    "aboutRight": {
+      "aboutText": " At Zolara Tech, we don’t just market your business — we help you create meaningful connections with your audience. Our team of experts leverages cutting-edge digital marketing techniques to ensure your brand stands out in a crowded marketplace. From strategy to execution, we’re here to drive your growth and maximize your ROI",
+      "contactInfo": [
+        {
+          "icon": "phone",
+          "data": "+92 3456789001"
+        },
+        {
+          "icon": "person",
+          "data": "Aneel Ahmed"
+        },
+        {
+          "icon": "envelope",
+          "data": "lilonesigner@gmail.com"
+        },
+        {
+          "icon": "map",
+          "data": "California, USA"
+        }
+      ],
+      "archivement": [
+        {
+          "number": "10+",
+          "meta": "Years <br /> experience...",
+          "text": "Hello there! My name is <span>Aneel Ahmed</span>. I am a web designer & developer, and Im very passionate and dedicated to my work."
+        },
+        {
+          "number": "50+",
+          "meta": "Clients <br /> Worldwide...",
+          "text": "With 10+ years experience as a professional designer, I have acquired the skills to make your project a success."
+        }
+      ]
+    }
+  },
+  "experienceData": {
+    "ourtext": "Zolara CRM is an advanced customer relationship management system designed to streamline operations. It offers powerful features like lead management, sales tracking, client communication, and automated reports. Our CRM ensures secure data handling and seamless team collaboration, helping businesses achieve higher profitability and faster growth.",
+    "text": "Hello! I'm Aneel Ahmed, a web designer and developer with a passion for creating exceptional digital experiences.",
+    "resumeCv": "/Resume.pdf",
+    "experience": [
+      {
+        "start": "2020",
+        "end": "Present",
+        "title": "LEAD UI/UX DESIGNER",
+        "subtitle": "UI/UX Lead"
+      },
+      {
+        "start": "2017",
+        "end": "2018",
+        "title": "SENIOR UI/UX DESIGNER",
+        "subtitle": "UI/UX Designer"
+      },
+      {
+        "start": "2015",
+        "end": "2017",
+        "title": "WEB DESIGN AND DEVELOPER",
+        "subtitle": "Jr. UI/UX Designer"
+      }
+    ]
+  },
+  "serviceData": [
+    {
+      "title": "Website Design & Development", 
+      "heading": "Understanding solution requirements is crucial for any project...",
+      "triger": "One",
+      "imgLink": "/images/services-1.jpg",
+      "text": "Understanding solution requirements is crucial for any project. Our team first meets with you to grasp your detailed business needs, enabling us to design a tailored solution. We then assign a specialized team of architects, web developers, and designers to execute the task effectively."
+    },
+    {
+      "title": "Lead Generation",
+      "heading": "Hustle Bridge is a seasoned digital marketing company specializing in lead generation for over 6 years ...",
+      "triger": "Two",
+      "imgLink": "/images/services-2.jpg",
+      "text": " Hustle Bridge is a seasoned digital marketing company specializing in lead generation for over 6 years. We excel in web scraping, data mining, email scraping, database creation, and web design"
+    },
+    {
+      "title": "Beipo Industry",
+      "heading": "Hustlers Bridge offers the tailored BPO services across the various business...",
+      "triger": "Three",
+      "imgLink": "/images/services-3.jpg",
+      "text": "Hustlers Bridge offers the tailored BPO services across the various business verticals, catering to our clients' specific needs. And beyond the simply answering all the obstacles, we can also manage email responses, moderate the social media accounts, and provide live web chat services."
+    },
+    {
+      "title": " Digital Marketing ",
+      "heading": "At Hustler Bridge, we can provide a comprehensive suite of the digital marketing services...",
+      "triger": "Four",
+      "imgLink": "/images/services-4.jpg",
+      "text": "At Hustler Bridge, we can provide a comprehensive suite of the digital marketing services designed to grow your brand and deliver measurable results. Our expert team combines data-driven of insights with creative solutions to the ensure your business stands"
+    },
+    {
+      "title": "E-commerce",
+      "heading": "I provide complete e-commerce solutions, including creating fully functional online stores ...",
+      "triger": "Five",
+      "imgLink": "/images/services-4.jpg",
+      "text": "I provide complete e-commerce solutions, including creating fully functional online stores, designing custom themes, and organizing product data for efficient management. My services ensure a seamless user experience, helping businesses showcase their products effectively and manage their stores with ease. From setup to support, I offer everything needed to launch and grow a successful e-commerce business."
+    }
+    
+  ],
+  "portfolioData": [
+    {
+      "ImgLink": "/images/services-1.jpg",
+      "subTitle": "UX case study",
+      "title": "Landing Page Design",
+      "link": "",
+      "paragraphList": [
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        },
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        },
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        },
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        }
+      ]
+    },
+    {
+      "ImgLink": "/images/services-2.jpg",
+      "subTitle": "UX case study",
+      "title": "Creative Portfolio Designs",
+      "link": "",
+      "paragraphList": [
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        },
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        },
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        },
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        }
+      ]
+    },
+    {
+      "ImgLink": "/images/services-3.jpg",
+      "subTitle": "UX case study",
+      "title": "App Ui Design",
+      "link": "",
+      "paragraphList": [
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        },
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        },
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        },
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        }
+      ]
+    },
+    {
+      "ImgLink": "/images/services-4.jpg",
+      "subTitle": "UX case study",
+      "title": "Logo Designs",
+      "link": "",
+      "paragraphList": [
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        },
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        },
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        },
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        }
+      ]
+    }
+  ],
+  "blogData": [
+    {
+      "ImgLink": "/images/blog-1.jpg",
+      "date": "12 July, 2022",
+      "delay": "700",
+      "title": "12 unique example of portfolio websites",
+      "paragraphList": [
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        },
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        },
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        },
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        }
+      ]
+    },
+    {
+      "ImgLink": "/images/blog-2.jpg",
+      "date": "11 July, 2022",
+      "delay": "800",
+      "title": "12 unique example of portfolio websites",
+      "paragraphList": [
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        },
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        },
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        },
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        }
+      ]
+    },
+    {
+      "ImgLink": "/images/blog-3.jpg",
+      "date": "10 July, 2022",
+      "delay": "900",
+      "title": "12 unique example of portfolio websites",
+      "paragraphList": [
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        },
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        },
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        },
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        }
+      ]
+    },
+    {
+      "ImgLink": "/images/blog-4.jpg",
+      "date": "10 July, 2022",
+      "delay": "1000",
+      "title": "12 unique example of portfolio websites",
+      "paragraphList": [
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
+        },
+        {
+          "text": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        },
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        }
+      ]
+    }
+  ],
+  "sliderData": {
+    "testimonialInfo": {
+      "useFor": "testimonial",
+      "settings": {
+        "infinite": true,
+        "speed": 1500,
+        "autoplay": true,
+        "autoplaySpeed": 5000,
+        "slidesToShow": 2,
+        "slidesToScroll": 1,
+        "arrows": false,
+        "dots": true,
+        "responsive": [
+          {
+            "breakpoint": 991,
+            "settings": {
+              "slidesToShow": 1,
+              "autoplay": true
+            }
+          }
+        ]
+      },
+      "info": [
+        {
+          "imgLink": "/images/avatar-1.jpg",
+          "name": "Rena Champ",
+          "designation": "Managing Director, USA",
+          "text": "We’re highly satisfied with EL and his team’s exceptional support as our Virtual Assistant. Their dedication in client acquisition and securing real estate appointments has greatly contributed to our success."
+        },
+        {
+          "imgLink": "/images/avatar-2.jpg",
+          "name": "Will Smith",
+          "designation": "Journalist, HWO News",
+          "text": "HUSTLER BRIDGE has greatly impressed me with their service and results. Their expertise boosted our online presence, engagement, and conversions. Highly dedicated and tailored solutions. I highly recommend them."
+        },
+        {
+          "imgLink": "/images/avatar-1.jpg",
+          "name": "Jane Lopez",
+          "designation": "Realtor, USA",
+          "text": "Working with HUSTLER BRIDGE has transformed our marketing strategy. Their AI-driven solutions boosted lead generation and conversions, and their expertise made collaboration seamless. Highly recommend for businesses seeking real results!"
+        },
+        {
+          "imgLink": "/images/avatar-2.jpg",
+          "name": "George jm",
+          "designation": "SEO Services ",
+          "text": "HUSTLER BRIDGE revolutionized our marketing strategy with AI-driven solutions, boosting lead generation and conversions. Their expertise and proactive communication were key to our success. Highly recommend for tech-driven marketing."
+        }
+      ]
+    },
+    "brandInfo": {
+      "useFor": "brand",
+      "settings": {
+        "infinite": true,
+        "speed": 1000,
+        "autoplay": true,
+        "autoplaySpeed": 3000,
+        "slidesToShow": 5,
+        "slidesToScroll": 1,
+        "arrows": false,
+        "responsive": [
+          {
+            "breakpoint": 991,
+            "settings": {
+              "slidesToShow": 4
+            }
+          },
+          {
+            "breakpoint": 767,
+            "settings": {
+              "slidesToShow": 3
+            }
+          }
+        ]
+      },
+      "info": [
+        {
+          "imgLink": "/images/brand-1.png"
+        },
+        {
+          "imgLink": "/images/brand-2.png"
+        },
+        {
+          "imgLink": "/images/brand-3.png"
+        },
+        {
+          "imgLink": "/images/brand-4.png"
+        },
+        {
+          "imgLink": "/images/brand-1.png"
+        },
+        {
+          "imgLink": "/images/brand-2.png"
+        }
+      ]
+    }
+  },
+  "contactData": {
+    "contactInfo": [
+      {
+        "icon": "chat-left-dots-fill",
+        "title": "Chat to us",
+        "text": "Our friendly team is there to help.",
+        "emailLink": "info@domainname.com"
+      },
+      {
+        "icon": "compass",
+        "title": "Visit us",
+        "text": "Come say hello at ur office HQ. Warnwe Park Streetperrine, FL 33157 New York City"
+      },
+      {
+        "icon": "phone",
+        "title": "Call us",
+        "text": "Mon-Fri from 8am to 5pm. +01 (555) 000-0000"
+      }
+    ],
+    "contactForm": {
+      "title": "Got Ideas? We have got the skills. Lets team up.",
+      "text": "Tell us more about yourself and what you are got in mind."
+    }
+  },
+  "footerData": {
+    "ImgLink": "public/images/editpic.png",
+    "name": "Aneel Ahmed"
+  },
+  "socialData": [
+    {
+      "icon": "twitter",
+      "link": ""
+    },
+    {
+      "icon": "instagram",
+      "link": ""
+    },
+    {
+      "icon": "facebook",
+      "link": ""
+    },
+    {
+      "icon": "pinterest",
+      "link": ""
+    }
+  ]
+}
