@@ -36,7 +36,7 @@ const About = ({ data }) => {
             <div className="about-bio">
               <p>{aboutText}</p>
             </div>
-            <div className="about-contact row gx-lg-5">
+            {/* <div className="about-contact row gx-lg-5">
               {contactInfo.map((element, index) => (
                 <div className="col-sm-6" key={index}>
                   <p>
@@ -45,7 +45,7 @@ const About = ({ data }) => {
                   </p>
                 </div>
               ))}
-            </div>
+            </div> */}
             <div className="about-exp">
               <div className="row gy-4">
                 {archivement.map((element, index) => (

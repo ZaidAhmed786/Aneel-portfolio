@@ -26,7 +26,7 @@ const Portfolio = ({ data }) => {
     <section>
       <div id="work" className="section work-section">
         <div className="container">
-          <SectionHeading title="OUR BEST WORK OF SUCCESSFUL PROJECT" subTitle="PORTFOLIO" />
+          {/* <SectionHeading title="OUR BEST WORK OF SUCCESSFUL PROJECT" subTitle="PORTFOLIO" />
           <div className="row gy-5 lightbox-gallery" data-aos="fade-up" data-aos-duration="800">
             {
               data.map((element, index) => (
@@ -48,7 +48,10 @@ const Portfolio = ({ data }) => {
                 </div>
               ))
             }
-          </div>
+          </div> */}
+        <div className="w-100 px-btn py-5 ">
+         <video src="./images/img/hi.mp4"  autoPlay loop muted className="w-100 h-auto"></video>
+         </div>
         </div>
       </div>
       {modal === true ? <Modal img={tempData[1]} title={tempData[2]} subTitle={tempData[3]} paraList={tempData[4]} modalClose={modalClose} /> : ""}

@@ -4,11 +4,9 @@
     "logoLight": "/images/logo-light.svg"
   },
   "heroData": {
-    "title": "My name<br />is  <span>Aneel Ahmed</span>",
+    "title": " I'M <br/><span>Aneel Ahmed</span>",
     "subTitle": "",
     "ImgLink": "./images/editpic.png",
-    "phone": "+92 3456789001",
-    "email": "mccandesigner@gmail.com",
     "btnText": "Work with me",
     "socialData": [
       {
@@ -34,24 +32,6 @@
     },
     "aboutRight": {
       "aboutText": " At Zolara Tech, we don’t just market your business — we help you create meaningful connections with your audience. Our team of experts leverages cutting-edge digital marketing techniques to ensure your brand stands out in a crowded marketplace. From strategy to execution, we’re here to drive your growth and maximize your ROI",
-      "contactInfo": [
-        {
-          "icon": "phone",
-          "data": "+92 3456789001"
-        },
-        {
-          "icon": "person",
-          "data": "Aneel Ahmed"
-        },
-        {
-          "icon": "envelope",
-          "data": "lilonesigner@gmail.com"
-        },
-        {
-          "icon": "map",
-          "data": "California, USA"
-        }
-      ],
       "archivement": [
         {
           "number": "10+",
@@ -69,7 +49,7 @@
   "experienceData": {
     "ourtext": "Zolara CRM is an advanced customer relationship management system designed to streamline operations. It offers powerful features like lead management, sales tracking, client communication, and automated reports. Our CRM ensures secure data handling and seamless team collaboration, helping businesses achieve higher profitability and faster growth.",
     "text": "Hello! I'm Aneel Ahmed, a web designer and developer with a passion for creating exceptional digital experiences.",
-    "resumeCv": "/Resume.pdf",
+    "resumeCv": "https://www.upwork.com/agencies/hustlerbridge/",
     "experience": [
       {
         "start": "2020",

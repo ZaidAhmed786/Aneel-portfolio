@@ -14,7 +14,9 @@
     border-radius: 50%;
     &::after {
       content: "";
-      background: linear-gradient(90deg, var(--px-theme) 0%, var(--px-theme-2) 100%);
+      background: linear-gradient(90deg, #0299fd 0%, #007bff3a 100%);
+      box-shadow: 0 0 15px #00ffff, 0 0 30px #007bff;
+
       border-radius: inherit;
       position: absolute;
       height: 100%;
