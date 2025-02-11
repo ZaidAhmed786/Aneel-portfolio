@@ -6,7 +6,7 @@
   "heroData": {
     "title": "My name<br />is  <span>Aneel Ahmed</span>",
     "subTitle": "",
-    "ImgLink": "public/images/editpic.png",
+    "ImgLink": "./images/editpic.png",
     "phone": "+92 3456789001",
     "email": "mccandesigner@gmail.com",
     "btnText": "Work with me",
@@ -27,7 +27,7 @@
   },
   "aboutData": {
     "aboutLeft": {
-      "ImgLink": "/images/about-banner.png",
+      "ImgLink": "/images/img/ameel.jpg",
       "name": "Aneel Ahmed",
       "designation": "entrepreneurs",
       "resumeCv": "/Resume.pdf"
@@ -314,25 +314,25 @@
       },
       "info": [
         {
-          "imgLink": "/images/avatar-1.jpg",
+          "imgLink": "/images/img/Frame 875.png",
           "name": "Rena Champ",
           "designation": "Managing Director, USA",
           "text": "We’re highly satisfied with EL and his team’s exceptional support as our Virtual Assistant. Their dedication in client acquisition and securing real estate appointments has greatly contributed to our success."
         },
         {
-          "imgLink": "/images/avatar-2.jpg",
+          "imgLink": "/images/img/male.jpg",
           "name": "Will Smith",
           "designation": "Journalist, HWO News",
           "text": "HUSTLER BRIDGE has greatly impressed me with their service and results. Their expertise boosted our online presence, engagement, and conversions. Highly dedicated and tailored solutions. I highly recommend them."
         },
         {
-          "imgLink": "/images/avatar-1.jpg",
+          "imgLink": "/images/img/th (2).jpeg",
           "name": "Jane Lopez",
           "designation": "Realtor, USA",
           "text": "Working with HUSTLER BRIDGE has transformed our marketing strategy. Their AI-driven solutions boosted lead generation and conversions, and their expertise made collaboration seamless. Highly recommend for businesses seeking real results!"
         },
         {
-          "imgLink": "/images/avatar-2.jpg",
+          "imgLink": "/images/img/th.jpeg",
           "name": "George jm",
           "designation": "SEO Services ",
           "text": "HUSTLER BRIDGE revolutionized our marketing strategy with AI-driven solutions, boosting lead generation and conversions. Their expertise and proactive communication were key to our success. Highly recommend for tech-driven marketing."

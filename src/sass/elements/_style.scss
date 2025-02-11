@@ -17,7 +17,7 @@ body {
   left: 0;
   width: 100%;
   height: 100%;
-  opacity: 0.4;
+  opacity: 0.1;
   object-fit: cover; /* ویڈیو کو پوری اسکرین پر فٹ کرنے کے لیے */
   z-index: -1; /* ویڈیو کو باقی مواد کے پیچھے رکھنے کے لیے */
   pointer-events: none; /* ویڈیو کو ناقابل تعامل بنانے کے لیے */
@@ -86,14 +86,15 @@ a {
       }
       span {
         -webkit-text-stroke-width: 1.5px;
-        -webkit-text-stroke-color: rgb(5, 125, 245); /* Lighter Neon Blue */
-        filter: drop-shadow(0 0 20px rgba(30, 144, 255, 0.9))
-                drop-shadow(0 0 10px rgba(30, 144, 255, 1))
-                drop-shadow(0 0 20px rgba(30, 144, 255, 1.1));
-        -webkit-text-fill-color: transparent;
-        font-weight: 700;
-        font-size: 50px;
-        text-align: center;
+        -webkit-text-stroke-color: rgb(15, 131, 247); 
+   
+        -webkit-text-fill-color: rgb(255, 255, 255); 
+        text-shadow: 0 0 10px rgb(4, 122, 240);
+box-shadow: 0px 5px 10px rgba(5, 125, 245, 0.5); /* Adjusted for a subtle shadow */
+font-weight: 700;
+font-size: 50px;
+text-align: center;
+
         
       }
     }
@@ -191,8 +192,10 @@ a {
     text-transform: uppercase;
     background: linear-gradient(270.16deg, var(--px-theme-2) 5.74%, var(--px-theme) 92.05%);
     -webkit-background-clip: text;
-    -webkit-text-fill-color: rgb(35, 145, 255);
-    text-shadow: 0 0 30px rgba(30, 144, 255, 0.9); 
+    -webkit-text-stroke-color: rgb(15, 131, 247); 
+   
+    -webkit-text-fill-color: rgb(255, 255, 255); 
+    text-shadow: 0 0 10px rgb(4, 122, 240); 
     background-clip: text;
     text-fill-color: transparent;
     margin: 0 0 10px;
@@ -235,6 +238,7 @@ a {
     }
     span {
       padding-left: 15px;
+      
     }
   }
 }
@@ -254,10 +258,14 @@ a {
       text-transform: uppercase;
       background: linear-gradient(270.16deg, var(--px-theme-2) 5.74%, var(--px-theme) 92.05%);
       -webkit-background-clip: text;
-      -webkit-text-fill-color: rgb(35, 145, 255);
-      text-shadow: 0 0 30px rgba(30, 144, 255, 0.9); 
+      -webkit-text-stroke-color: rgb(15, 131, 247); 
+      // // -webkit-text-fill-color: rgb(35, 145, 255);
+      // filter: drop-shadow(0 0 10px rgba(30, 144, 255, 0.7)) 
+      //   drop-shadow(0 0 20px rgba(30, 144, 255, 0.8));
+      -webkit-text-fill-color: rgb(255, 255, 255); 
+      text-shadow: 0 0 10px rgb(4, 122, 240); 
       background-clip: text;
-      text-fill-color: transparent;
+      // text-fill-color: transparent;
     }
     span {
       flex: 1;

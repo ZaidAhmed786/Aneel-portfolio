@@ -77,6 +77,16 @@ const Header = ({ data }) => {
           </li>
           <li>
             <ScrollLink
+              to="skills"
+              spy={true}
+              duration={500}
+              onClick={() => setMobileToggle(false)}
+            >
+              Skills
+            </ScrollLink>
+          </li>
+          <li>
+            <ScrollLink
               to="work"
               spy={true}
               duration={500}
@@ -85,16 +95,7 @@ const Header = ({ data }) => {
               Portfolio
             </ScrollLink>
           </li>
-          <li>
-            <ScrollLink
-              to="blog"
-              spy={true}
-              duration={500}
-              onClick={() => setMobileToggle(false)}
-            >
-              Blog
-            </ScrollLink>
-          </li>
+       
           <li>
             <ScrollLink
               to="contact"

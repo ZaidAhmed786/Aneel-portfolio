@@ -3,7 +3,7 @@ import SectionHeading from '../SectionHeading/SectionHeading';
 
 const Service = ({ data }) => {
   return (
-    <section  className="section services-section  ">
+    <section  id='skills' className="section services-section  ">
       <div className="container">
         <SectionHeading title="My Specialties" subTitle="Our Expertise" />
         <div className="accordion accordion-flush" id="accordion_services">

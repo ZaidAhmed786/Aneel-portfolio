@@ -12,9 +12,9 @@ const Testimonial = ({ data }) => {
         <div className="testimonials">
           <Carousel data={testimonialInfo} />
         </div>
-        <div className="testimonials-brand">
+        {/* <div className="testimonials-brand">
           <Carousel data={brandInfo} />
-        </div>
+        </div> */}
       </div>
     </section >
   )

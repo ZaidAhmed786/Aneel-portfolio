@@ -8,13 +8,13 @@ const Experience = ({ data }) => {
   return (
     <section id="services"  className="section experience-section ">
       <div className="container">
-      <SectionHeading title="Zolara CRM – Complete Control & Efficiency" subTitle="Our Project" />
+      <SectionHeading title="Zolara CRM – Complete Control & Efficiency" subTitle={<span style={{ fontWeight: "bold", fontSize: "24px" }}>Our Project </span>} />
       <p data-aos="fade-up" data-aos-duration="800" data-aos-delay="300">{ourtext}</p>
-      <video autoPlay muted loop className=" img-fluid w-75 mb-5">
-        <source src="public/images/crm.mp4" type="video/mp4" />
-          </video>
+        <div className="w-50 py-5 px-btn dark">
+          <img src="/images/img/LOGO-2.png" alt="" />
+        </div>
 
-        <div className="row gy-5">
+        <div className="row gy-5 pt-5">
           <div className="col-lg-5">
             <div className="section-heading">
 
@@ -22,7 +22,7 @@ const Experience = ({ data }) => {
               <p data-aos="fade-up" data-aos-duration="800" data-aos-delay="300">{text}</p>
               <div className="btn-bar" data-aos="fade-up" data-aos-duration="800" data-aos-delay="200">
                 <a href={resumeCv} className="px-btn dark" download>
-                  Download my resume <Icon icon="bi-download" />
+                 Visit My Profile<Icon icon="bi-download" />
                 </a>
               </div>
             </div>
