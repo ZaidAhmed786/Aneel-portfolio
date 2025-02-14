@@ -11,7 +11,7 @@ const Experience = ({ data }) => {
       <SectionHeading title="Zolara CRM – Complete Control & Efficiency" subTitle={<span style={{ fontWeight: "bold", fontSize: "24px" }}>Our Project </span>} />
       <p data-aos="fade-up" data-aos-duration="800" data-aos-delay="300">{ourtext}</p>
         <div className="w-75 py-5 text-center mx-auto">
-          <img src="./images/img/LOGO-2-removebg-preview.png" alt="" className="img-brand" />
+          <img src="./images/img/ji.mp4" alt="" className="img-brand" />
         </div>
         <div className="w-100 px-btn py-5 ">
          <video src="./images/img/crm.mp4" controls autoPlay loop muted className="w-100 h-auto"></video>

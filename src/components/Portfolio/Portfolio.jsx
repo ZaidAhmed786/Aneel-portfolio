@@ -50,7 +50,7 @@ const Portfolio = ({ data }) => {
             }
           </div> */}
         <div className="w-100 px-btn py-5 ">
-         <video src="./images/img/hi.mp4"  autoPlay loop muted className="w-100 h-auto"></video>
+         <video src="./images/img/ji.mp4"  autoPlay loop muted className="w-100 h-auto"></video>
          </div>
         </div>
       </div>

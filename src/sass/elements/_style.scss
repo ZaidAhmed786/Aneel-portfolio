@@ -1,7 +1,7 @@
 /* Background
 -------------------------------*/
 body {
-  background-color: var(--px-bg) !important;
+  background-color: var(--px-text) !important;
   color: var(--px-text) !important;
   font-family: $px-font;
   --bs-body-font-weight: 400 !important;
@@ -17,7 +17,7 @@ body {
   left: 0;
   width: 100%;
   height: 100%;
-  opacity: 0.1;
+  opacity: 0.7;
   object-fit: cover; /* ویڈیو کو پوری اسکرین پر فٹ کرنے کے لیے */
   z-index: -1; /* ویڈیو کو باقی مواد کے پیچھے رکھنے کے لیے */
   pointer-events: none; /* ویڈیو کو ناقابل تعامل بنانے کے لیے */
@@ -32,7 +32,7 @@ a {
 .wrapper {
   @include up-lg {
     position: relative; /* مواد کو ویڈیو کے اوپر رکھنے کے لیے */
-  padding-left: 285px;
+  // padding-left: 285px;
   z-index: 1;
   }
 }

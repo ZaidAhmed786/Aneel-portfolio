@@ -19,6 +19,7 @@ const Layout = () => {
       {isLoading ? <Preloader /> : (
         <>
           <CustomCursor />
+          
           <Header data={headerData} />
           <Outlet />
         </>

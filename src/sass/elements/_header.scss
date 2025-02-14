@@ -58,14 +58,18 @@
 
 .header-left-fixed {
 	position: fixed;
-	top: 0;
-	left: 0;
-	bottom: 0;
-	width: 285px;
+	// top: 0;
+	// left: 0;
+	// bottom: 0;
+	width: 100%;
 	// background-color: var(--px-dark);
 	z-index: 11;
+	padding:30px 110px ;
+	// padding-right: 110px;
 	display: flex;
-	flex-direction: column;
+	align-items: center;
+	justify-content: space-between;
+	flex-direction: row;
 	transition: ease all 0.35s;
 	@include down-lg {
 		left: -400px;
@@ -83,15 +87,17 @@
         
 	}
 	.logo {
-		padding: 50px 30px 30px;
+		// padding: 40px 30px 30px;
 	}
 	.main-menu {
 		margin: 0;
-		padding: 40px 0 0;
+		// padding: 40px 0 0;
+		
 		list-style: none;
+		display: flex;
 		flex: 1;
 		a {
-			padding: 10px 30px;
+			padding: 10px 15px;
 			position: relative;
 			display: flex;
 			font-size: 18px;
@@ -113,7 +119,7 @@
 				width: 0;
 				right: 0;
 				height: 3px;
-				background: linear-gradient(270.16deg,  rgba(30, 144, 255, 0.9) 33.61%, rgba(175, 38, 118, 0) 92.05%);
+				// background: linear-gradient(270.16deg,  rgba(30, 144, 255, 0.9) 33.61%, rgba(175, 38, 118, 0) 92.05%);
 				transition: ease all 0.35s;
 			}
 			&.active {
@@ -125,7 +131,7 @@
 		}
 	}
 	.social-link {
-		padding: 30px;
+		// padding: 30px;
 		li {
 			margin-right: 10px;
 		}

@@ -24,9 +24,10 @@ const Hero = ({ data }) => {
 
   return (
     <section id="home" className="home-section bg-transparent ">
-      <div className="container">
+
+      <div className="container ">
         <div className="row  min-vh-100 align-items-center">
-          <div className="col-lg-7 col-xl-7 col-xxl-6">
+          <div className="col-lg-5 col-xl-7 col-xxl-6">
             <div className="hb-text">
               <h1 data-aos="fade-up" data-aos-duration="800" data-aos-delay="200">{perser(title)}</h1>
               <p className="lead" data-aos="fade-up" data-aos-duration="800" data-aos-delay="400">{perser(subTitle)}</p>
@@ -38,10 +39,8 @@ const Hero = ({ data }) => {
               
             </div>
           </div>
-        </div>
-      </div>
-      <div className="hb-me mt-4" style={{ backgroundImage: `url(${ImgLink})` }} data-aos="fade-left" data-aos-duration="800" data-aos-delay="800"/>
-      <div className="social-fix">
+          <div className="col-lg-7  social-fix  mt-5 pt-4">
+        <img src={ImgLink} alt="" className='img-fluid w-75 mt-5 pt-5' />
         <div className="social-links" >
           {
             socialData.map((element, index) => (
@@ -52,6 +51,11 @@ const Hero = ({ data }) => {
           }
         </div>
       </div>
+        </div>
+      
+      </div>
+      <div className="hb-me mt-4 w-75"  data-aos="fade-left" data-aos-duration="800" data-aos-delay="800"/>
+      
     </section>
   )
 }

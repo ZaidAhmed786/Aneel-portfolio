@@ -15,7 +15,7 @@ const Home = () => {
     <>
       <main className="wrapper">
         <video autoPlay muted loop className="video-background">
-          <source src="./images/istockphoto-1140425507-640_adpp_is (online-video-cutter.com).mp4" type="video/mp4" />
+          <source src="./images/img/hello.mp4" type="video/mp4" />
        </video>
 
         <Hero data={heroData} />
